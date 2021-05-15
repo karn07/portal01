@@ -19,7 +19,6 @@ section
     width:50%;
     height:100%;
 }  
-
 #img1
 {
     position:absolute;
@@ -58,6 +57,8 @@ section
     width:50%;
     height:100%;
 }
+
+
 .formBx
 {
     width:50%;
@@ -130,8 +131,6 @@ section .contentBx .formBx .inputBx p a
 {
     color:#45ff7d;
 }
-
-
 
 
 
